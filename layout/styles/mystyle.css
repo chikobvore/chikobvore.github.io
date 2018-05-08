@@ -1,0 +1,47 @@
+.mycontent
+{
+	background: white;
+	padding-top: 50px;
+
+}
+.mytext
+{
+	align-items: center;
+	padding: 100px;
+	display: inline-block;
+	font: 24px;
+}
+.mytextimage
+{
+	height: 300px;
+	float: right;
+}
+.mybtn
+{
+	padding-top: 100px;
+}
+.olevel
+{
+	float: left;
+}
+.tet
+{
+	width: 600px;
+	float: left;
+	display: inline-block;
+}
+.alevel
+{
+	float: right;
+	padding: 150px;
+}
+.mycomments
+{
+	padding-top: 200px;
+}
+.part12
+{
+	float: right;
+	display: inline-block;
+	padding-top: 180px;
+}
