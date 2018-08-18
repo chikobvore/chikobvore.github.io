@@ -11,8 +11,8 @@ var mashapeApiKey = 'YOUR_MASHAPE_API_KEY';
  var config = {
      botName: 'nyasha',
      inputs: '#humanInput',
-     inputCapabilityListing: false,
-     engines: [wx],
+     inputCapabilityListing: true,
+     engines: [ChatBot.Engines.duckduckgo()],
      addChatEntryCallback: function(entryDiv, text, origin) {
          entryDiv.delay(200).slideDown();
      }
