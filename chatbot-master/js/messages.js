@@ -1,7 +1,4 @@
-
-
- // get you mashape api key here: https://market.mashape.com/webknox/question-answering
- var mashapeApiKey = 'YOUR_MASHAPE_API_KEY';
+var mashapeApiKey = 'YOUR_MASHAPE_API_KEY';
  var wx = ChatBot.Engines.webknox(mashapeApiKey);
 
  var sampleConversation = [
